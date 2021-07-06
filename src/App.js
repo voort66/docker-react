@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-        With compose
+        Now I was changed on the feature branch!
         </h1>
         <a
           className="App-link"
